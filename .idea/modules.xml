@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/udemy-courses/learn-programming-academy/1_java-programming-masterclass-for-software-developers/1_HelloWorld/1_HelloWorld.iml" filepath="$PROJECT_DIR$/udemy-courses/learn-programming-academy/1_java-programming-masterclass-for-software-developers/1_HelloWorld/1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemy-courses/learn-programming-academy/1_java-programming-masterclass-for-software-developers/2_IntByteShortLong/2_IntByteShortLong.iml" filepath="$PROJECT_DIR$/udemy-courses/learn-programming-academy/1_java-programming-masterclass-for-software-developers/2_IntByteShortLong/2_IntByteShortLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-Projects.iml" />
+    </modules>
+  </component>
+</project>
