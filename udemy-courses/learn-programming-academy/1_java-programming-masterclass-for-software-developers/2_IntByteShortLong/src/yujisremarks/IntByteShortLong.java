@@ -12,7 +12,7 @@ public class IntByteShortLong {
         //Overflow the Maximum Value
         System.out.println("Busted Integer Maximum Value = " + (myMaxIntValue + 1));
         // Note that there is an error when we exceed the minimum and maximum values.
-        // int myMaxIntNumber = 2_147_483_648;
         // int myMinIntNumber = -2_147_483_649;
+        // int myMaxIntNumber = 2_147_483_648;
     }
 }
