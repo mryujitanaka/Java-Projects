@@ -1,7 +1,7 @@
 package yujisremarks;
 public class IntByteShortLong {
     public static void main(String[] args) {
-        // Minimum and Maximum Integers that can be stored in memory
+        // Minimum and Maximum Int numbers that can be stored in memory
         // Size: occupies 32 bits amount of memory, width of 32
         int myMinIntValue = Integer.MIN_VALUE;
         int myMaxIntValue = Integer.MAX_VALUE;
@@ -17,6 +17,7 @@ public class IntByteShortLong {
 
         System.out.println();
 
+        // Minimum and Maximum Byte numbers that can be stored in memory
         // Size: occupies 8 bits amount of memory, width of 8
         byte myMinByteValue = Byte.MIN_VALUE;
         byte myMaxByteValue = Byte.MAX_VALUE;
@@ -32,6 +33,7 @@ public class IntByteShortLong {
 
         System.out.println();
 
+        // Minimum and Maximum Short numbers that can be stored in memory
         // Size: occupies 16 bits amount of memory, width of 16
         short myMinShortValue = Short.MIN_VALUE;
         short myMaxShortValue = Short.MAX_VALUE;
