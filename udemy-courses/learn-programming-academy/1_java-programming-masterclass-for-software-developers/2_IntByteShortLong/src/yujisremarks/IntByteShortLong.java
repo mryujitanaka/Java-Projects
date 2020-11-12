@@ -55,5 +55,18 @@ public class IntByteShortLong {
         // Note that there is an error when we exceed the minimum and maximum values.
         // long myMinLongNumber = -9_223_372_036_854_775_809L;
         // long myMaxLongNumber = 9_223_372_036_854_775_808L;
+
+        System.out.println();
+
+        // Challenge
+        byte challengeByteValue = 10;
+        short challengeShortValue = 20;
+        int challengeIntValue = 50;
+        long challengeLongValue = 50_000L + 10L * (challengeByteValue + challengeShortValue + challengeIntValue);
+        System.out.println("Challenge Result = " + challengeLongValue);
+        byte byteValue = (byte) (1000 + 10 * (challengeByteValue + challengeShortValue + challengeIntValue));
+        System.out.println(byteValue);
+        short shortValue = (short) (1000 + 10 * (challengeByteValue + challengeShortValue + challengeIntValue));
+        System.out.println(shortValue);
     }
 }
