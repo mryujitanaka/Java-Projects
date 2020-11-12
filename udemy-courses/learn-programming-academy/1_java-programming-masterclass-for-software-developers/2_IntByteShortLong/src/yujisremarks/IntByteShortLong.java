@@ -27,9 +27,6 @@ public class IntByteShortLong {
         System.out.println("Busted Byte Minimum Value = " + (byte)(myMinByteValue - 1));
         // Overflow the Maximum Value
         System.out.println("Busted Byte Maximum Value = " + (byte)(myMaxByteValue + 1));
-        // Note that there is an error when we exceed the minimum and maximum values.
-        // byte myMinByteNumber = -129;
-        // byte myMaxByteNumber = 128;
 
         System.out.println();
 
@@ -43,9 +40,6 @@ public class IntByteShortLong {
         System.out.println("Busted Short Minimum Value = " + (short)(myMinShortValue - 1));
         // Overflow the Maximum Value
         System.out.println("Busted Short Maximum Value = " + (short)(myMaxShortValue + 1));
-        // Note that there is an error when we exceed the minimum and maximum values.
-        // short myMinShortNumber = -32_769;
-        // short myMaxShortNumber = 32_768;
 
         System.out.println();
 
