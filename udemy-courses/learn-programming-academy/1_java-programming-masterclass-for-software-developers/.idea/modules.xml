@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" filepath="$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/1_java-programming-masterclass-for-software-developers.iml" filepath="$PROJECT_DIR$/.idea/1_java-programming-masterclass-for-software-developers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_IntByteShortLong/2_IntByteShortLong.iml" filepath="$PROJECT_DIR$/2_IntByteShortLong/2_IntByteShortLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_FloatDouble/3_FloatDouble.iml" filepath="$PROJECT_DIR$/3_FloatDouble/3_FloatDouble.iml" />
+    </modules>
+  </component>
+</project>
