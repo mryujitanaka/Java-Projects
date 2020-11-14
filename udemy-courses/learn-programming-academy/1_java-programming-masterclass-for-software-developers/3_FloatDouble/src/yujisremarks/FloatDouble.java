@@ -20,12 +20,20 @@ public class FloatDouble {
         System.out.println();
 
         // Note:
-        int myIntValue = 5;
+        int myIntValue = 5 / 2;
         // float myFloatValue = (float) 5.25;
-        float myFloatValue = 5.25f;
-        double myDoubleValue = 5.25d;
+        float myFloatValue = 5f / 3f;
+        // double myDoubleValue = 5.00 / 3.00;
+        double myDoubleValue = 5d / 3d;
         System.out.println(myIntValue);
         System.out.println(myFloatValue);
         System.out.println(myDoubleValue);
+
+        System.out.println();
+
+        // Challenge
+        double poundsValue = 200d;
+        double kilogramsValue = poundsValue * 0.45359237d;
+        System.out.println("Challenge Result = " + kilogramsValue);
     }
 }
