@@ -35,5 +35,13 @@ public class FloatDouble {
         double poundsValue = 200d;
         double kilogramsValue = poundsValue * 0.45359237d;
         System.out.println("Challenge Result = " + kilogramsValue);
+
+        System.out.println();
+
+        // Another examples:
+        double pi = 3.1415927d;
+        double anotherNumber = 3_000_000.4_567_890d;
+        System.out.println(pi);
+        System.out.println(anotherNumber);
     }
 }
