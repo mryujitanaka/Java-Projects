@@ -13,7 +13,7 @@ public class TernaryOperator {
         // The 1st operand (isCar) is the condition that evaluate all conditions to true or false
         // The 2nd operand (true) is the value to assign to "wasCar" if the 1st condition is true
         // The 3rd operand (false) is what to assign to "wasCar" if the  1st operand condition is false
-        isCar = true; // This is true
+        isCar = true;
         boolean wasCar = isCar ? true : false;
         if (wasCar) {
             System.out.println("wasCar is true.");
