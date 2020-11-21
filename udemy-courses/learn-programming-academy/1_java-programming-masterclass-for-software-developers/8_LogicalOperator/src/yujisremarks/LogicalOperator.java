@@ -1,6 +1,7 @@
 package yujisremarks;
 public class LogicalOperator {
     public static void main(String[] args) {
+        // https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
         int topScore = 80;
         // != ("is not equal to")
         if (topScore != 100) {
@@ -36,7 +37,7 @@ public class LogicalOperator {
             System.out.println("This is true");
         }
         /*
-          // "isCar" on the line 42 is not going into errors because Java require that the operand must be type of
+          // "isCar" on the line 43 is not going into errors because Java require that the operand must be type of
           // boolean.
           boolean isCar = false;
           if (isCar = true) {
