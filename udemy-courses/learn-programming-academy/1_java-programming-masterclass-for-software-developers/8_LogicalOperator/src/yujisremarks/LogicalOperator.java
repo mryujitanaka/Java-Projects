@@ -22,6 +22,8 @@ public class LogicalOperator {
             System.out.println("topScore > 90) || (secondTopScore <= 90");
         }
 
+        System.out.println();
+
         // Assignment Operator VS Equals to Operator:
         /*
           int newValue = 50;
@@ -34,7 +36,8 @@ public class LogicalOperator {
             System.out.println("This is true");
         }
         /*
-          // isCar on line 39 is not going into errors because Java require that the operand must be of type of boolean
+          // "isCar" on the line 42 is not going into errors because Java require that the operand must be type of
+          // boolean.
           boolean isCar = false;
           if (isCar = true) {
             System.out.println("This is not supposed to happen");
@@ -44,6 +47,8 @@ public class LogicalOperator {
         if (isCar == true) {
             System.out.println("This is correct");
         }
+
+        System.out.println();
 
         // We can simplify the expressions:
         boolean isCar2 = false;
