@@ -1,6 +1,7 @@
 package yujisremarks;
 public class Operators {
     public static void main(String[] args) {
+        // https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
         int result = 1 + 2; // 1 + 2 = 3
         System.out.println("1 + 2 = " + result);
 
