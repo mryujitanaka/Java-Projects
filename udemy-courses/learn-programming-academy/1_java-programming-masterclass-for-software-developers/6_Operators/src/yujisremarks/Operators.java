@@ -29,6 +29,8 @@ public class Operators {
         result = result % 3; // the remainder of (4 % 3) = 1
         System.out.println("4 % 3 = " + result);
 
+        System.out.println();
+
         int previousResult5 = result;
         System.out.println("previousResult = " + previousResult5);
 
