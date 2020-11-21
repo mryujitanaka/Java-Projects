@@ -1,6 +1,7 @@
 package yujisremarks;
 public class TernaryOperator {
     public static void main(String[] args) {
+        // https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
         // Ternary Operator
         // The ternary operator is a shortcut to assigning one of two values to a variable depending on a given
         // condition.
