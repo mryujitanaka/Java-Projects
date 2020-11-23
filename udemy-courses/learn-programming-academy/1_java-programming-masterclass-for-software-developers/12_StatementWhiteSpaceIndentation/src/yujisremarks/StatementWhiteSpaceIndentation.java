@@ -21,7 +21,7 @@ public class StatementWhiteSpaceIndentation {
         // Whitespaces are spaces between one element and another in a line of code.
         // Example:
         // Between "int" and "mySecondVariable" there is a whitespace. The same for "mySecondVariable" and "="; and
-        // "=" and "= 60;".
+        // "=" and "60;".
         int mySecondVariable = 60;
         // We can also separate a line of code into several pieces. And for Java, that' fine. But this is not
         // advisable to do. In fact, it is better to never do it, although it is not a mistake.
