@@ -26,7 +26,7 @@ public class IfThenElseControlStatementsCodeBlocks {
         // Even if there is only one line of code in the code block, it is recommended to use the curly braces.
         if (score == 800) {
             System.out.println("Your score was 800! CONGRATS!");
-            System.out.println("This was also executed but in a much better way!");
+            System.out.println("This was executed but in a much better way!");
         }
 
         System.out.println();
