@@ -31,17 +31,17 @@ public class IfThenElseControlStatementsCodeBlocks {
 
         System.out.println();
 
-        /*
-        if (score < 5000 && score > 1000) {
-            System.out.println("score < 5000 && score > 1000");
-        } else if (score < 1000) {
-            System.out.println("score < 1000");
+        if (score < 800 && score > 100) {
+            System.out.println("score < 800 && score > 100");
+        } else if (score < 100) {
+            System.out.println("score < 100");
         } else {
             System.out.println("Got here");
         }
-        */
 
-        // We can create variables within a code block.
+        System.out.println();
+
+        // We can create variables in a code block.
         // And as we may have noticed, we were able to access variables that were created outside the code block.
         // Example:
         // Variable created in the code block: "finalScore".
