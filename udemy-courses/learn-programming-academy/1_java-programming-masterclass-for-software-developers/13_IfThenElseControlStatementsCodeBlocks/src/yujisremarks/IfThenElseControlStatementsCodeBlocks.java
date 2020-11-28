@@ -52,7 +52,7 @@ public class IfThenElseControlStatementsCodeBlocks {
         }
         // However, we're unable to access a variable created in a code block.
         // This is because once a variable is created inside the code block, and it is executed, it is automatically
-        // deleted. Therefore, we are unable to access variables in a code block.
+        // deleted.
         /*
         int savedFinalScore = finalScore;
         */
