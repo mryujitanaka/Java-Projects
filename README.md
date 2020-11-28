@@ -26,6 +26,10 @@ I sincerely hope that this project helps you as much as it helped me. :nerd_face
 <!-- Contributing -->
 ## Contributing
 
+<!-- To Do -->
+## To Do
+- [ ] Finish editing the README
+
 <!-- License -->
 ## License
 
