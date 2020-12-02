@@ -1,6 +1,11 @@
 package yujisremarks;
 public class Methods {
     public static void main(String[] args) {
+        // A Method is a block of code which only runs when it is called.
+        // We can pass data, known as parameters, into a method.
+        // Methods are used to perform certain actions, and they are also known as functions.
+        // We use methods to reuse code: define the code once, and use it many times.
+
         /*
         boolean gameOver = true;
         int score = 800;
