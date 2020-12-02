@@ -59,7 +59,9 @@ Distributed under the GPLv3 License. For more information, click [here](https://
 <!-- Acknowledgements and References-->
 ## Acknowledgements and References
 
-* [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
-* [Curso de POO Java (Programação Orientada a Objetos)](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
-* [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+* [Curso de Java para Iniciantes - Grátis, Completo e com Certificado by Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
+* [Curso de POO Java (Programação Orientada a Objetos) by Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+* [Java Programming Masterclass for Software Developers by Tim Buchalka's Learn Programming Academy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 * [Oracle Java](https://www.oracle.com/java/)
+* [Java Tutorial by w3schools](https://www.w3schools.com/java/default.asp)
+* [Java Programming Language by Geeks for Geeks](https://www.geeksforgeeks.org/java/)
