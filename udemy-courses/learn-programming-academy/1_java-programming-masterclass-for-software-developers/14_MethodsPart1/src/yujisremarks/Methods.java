@@ -44,6 +44,11 @@ public class Methods {
     //
     // So, we can say that the variables declared within a Method (inside the parentheses) are now called Parameters.
     // And the values of these variables will be called Arguments.
+    //
+    // "gameOver", "score", "levelCompleted" and "bonus" are the Parameters of the Method "calculateScore".
+    //
+    // Note that when we are working with multiple parameters, the method call must have the same number of arguments
+    // as there are parameters, and the arguments must be passed in the same order.
     public static void calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
         /*
         boolean gameOver = true;
