@@ -12,6 +12,15 @@ public class MethodsChallenge {
 
         playerPosition = calculateHighScorePosition(50);
         displayHighScorePosition("Fulaninho", playerPosition);
+
+        playerPosition = calculateHighScorePosition(1000);
+        displayHighScorePosition("Beltraninho", playerPosition);
+
+        playerPosition = calculateHighScorePosition(500);
+        displayHighScorePosition("Sicraninho", playerPosition);
+
+        playerPosition = calculateHighScorePosition(100);
+        displayHighScorePosition("Fulano Jr.", playerPosition);
     }
     public static void displayHighScorePosition(String playerName, int playerPosition) {
         System.out.println(playerName + " managed to get into position " + playerPosition + " on the high score table.");
