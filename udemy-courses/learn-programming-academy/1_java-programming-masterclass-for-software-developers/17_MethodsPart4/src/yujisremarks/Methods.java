@@ -6,6 +6,7 @@ public class Methods {
         int levelCompleted = 5;
         int bonus = 100;
 
+        // We can assign the generated value of a method to a variable.
         int highScore = calculateScore(gameOver, score, levelCompleted, bonus);
         System.out.println("Your final score was " + highScore);
 
