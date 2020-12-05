@@ -13,11 +13,11 @@
 <p>I believe that all knowledge on any subject should be shared with people. For that reason, I created this repository in order to be able to help the others. I hope this fulfills the purpose in some way.</p>
 
 <!-- Built With -->
-### Built With
-* [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
+<h2><strong>&#x1F6E0 Built With</strong></h2>
+<ul><li><a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29">Java</a></li></ul>
 
 <!-- Getting Started -->
-## Getting Started
+<h2><strong>&#x1F3C1 Getting Started</strong></h2>
 
 <!-- Prerequisites -->
 ### Prerequisites
