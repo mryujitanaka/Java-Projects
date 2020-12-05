@@ -5,12 +5,15 @@
 
 ---
 
-<!-- About The Project -->
-<h2><strong>&#x1F9D0 About The Project</strong></h2>
+<br>
+
+<!-- About the Project -->
+<h2><strong>&#x1F9D0 About the Project</strong></h2>
+<p>This project is a kind of BIG folder where I keep all the documents related to my learning about Java. It is also a time capsule where I can always go back and review some content.</p>
+<p>I believe that all knowledge on any subject should be shared with people. For that reason, I created this repository in order to be able to help the others. I hope this fulfills the purpose in some way.</p>
 
 <!-- Built With -->
 ### Built With
-
 * [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
 
 <!-- Getting Started -->
@@ -26,12 +29,11 @@
 ## Contributing
 
 <!-- To Do -->
-## To Do
+## To DoGetting Started
 - [ ] Finish editing the README
 
 <!-- License -->
 ## License
-
 Distributed under the GPLv3 License. For more information, click [here](https://github.com/vyujitanaka/Java-Projects/blob/master/LICENSE).
 
 <!-- License Logos -->
@@ -57,7 +59,6 @@ Distributed under the GPLv3 License. For more information, click [here](https://
 
 <!-- Acknowledgements-->
 ## Acknowledgements
-
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado by Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 * [Curso de POO Java (Programação Orientada a Objetos) by Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 * [Java Programming Masterclass for Software Developers by Tim Buchalka's Learn Programming Academy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
