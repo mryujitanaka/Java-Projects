@@ -1,5 +1,6 @@
 <!-- Heading -->
 <h1 align="center">Java Projects</h1>
+<br>
 
 <!-- Greetings -->
 # Java Projects
