@@ -1,3 +1,6 @@
+<!-- Heading -->
+<h1 align="center">Java Projects</h1>
+
 <!-- Greetings -->
 # Java Projects
 Hey there! Thank you for accessing this repository. :blush:
@@ -56,8 +59,8 @@ Distributed under the GPLv3 License. For more information, click [here](https://
 <!-- Contact -->
 ## Contact
 
-<!-- Acknowledgements and References-->
-## Acknowledgements and References
+<!-- Acknowledgements-->
+## Acknowledgements
 
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado by Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 * [Curso de POO Java (Programação Orientada a Objetos) by Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
