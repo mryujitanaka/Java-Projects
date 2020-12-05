@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="center">Java Projects</h1>
-<p align="center"><strong>Lessons, Tips, Tricks, Programs and Exercises that I used to learn the Java Programming Language</strong></p>
+<p align="center"><strong>Lessons, Tips, Tricks, Programs and Exercises that I used to learn the Java Programming Language &#x1F913&#x1F596</strong></p>
 <br>
 
 <!-- About The Project -->
