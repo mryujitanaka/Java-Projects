@@ -31,7 +31,7 @@
 ## Contributing
 
 <!-- To Do -->
-## To DoGetting Started
+## To Do
 - [ ] Finish editing the README
 
 <!-- License -->
