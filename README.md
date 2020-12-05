@@ -1,14 +1,7 @@
 <!-- Heading -->
 <h1 align="center">Java Projects</h1>
+<p align="center">_Lessons_, _Tips_, _Tricks_, _Programs_ and _Exercises_ that I used to learn the **Java Programming Language**:nerd_face:</p>
 <br>
-
-<!-- Greetings -->
-# Java Projects
-Hey there! Thank you for accessing this repository. :blush:
-
-Here you can find _Lessons_, _Tips_, _Tricks_, _Programs_ and _Exercises_ that I used to learn the **Java Programming Language**. 
-
-I sincerely hope that this project helps you as much as it helped me. :nerd_face:
 
 <!-- About The Project -->
 ## About The Project
