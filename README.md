@@ -3,8 +3,10 @@
 <p align="center"><em>Lessons, Tips, Tricks, Programs and Exercises</em> that I used to learn the <strong>Java Programming Language &#x1F913&#x1F596</strong></p>
 <br>
 
+---
+
 <!-- About The Project -->
-## About The Project
+<h2><strong>&#x1F9D0 About The Project</strong></h2>
 
 <!-- Built With -->
 ### Built With
