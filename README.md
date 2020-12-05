@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="center">Java Projects</h1>
-<p align="center"><em>Lessons, Tips, Tricks, Programs and Exercises</em> that I used to learn the <strong>Java Programming Language &#x1F913&#x1F596</strong></p>
+    <p align="center"><em>Lessons, Tips, Tricks, Programs and Exercises</em> that I used to learn the <strong>Java Programming Language &#x1F913&#x1F596</strong></p>
 <br>
 
 ---
@@ -9,12 +9,14 @@
 
 <!-- About the Project -->
 <h2><strong>&#x1F9D0 About the Project</strong></h2>
-<p>This project is a kind of BIG folder where I keep all the documents related to my learning about Java. It is also a time capsule where I can always go back and review some content.</p>
-<p>I believe that all knowledge on any subject should be shared with people. For that reason, I created this repository in order to be able to help the others. I hope this fulfills the purpose in some way.</p>
+    <p>This project is a kind of BIG folder where I keep all the documents related to my learning about Java. It is also a time capsule where I can always go back and review some content.</p>
+    <p>I believe that all knowledge on any subject should be shared with people. For that reason, I created this repository in order to be able to help the others. I hope this fulfills the purpose in some way.</p>
 
 <!-- Built With -->
 <h2><strong>&#x1F6E0 Built With</strong></h2>
-<ul><li><a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29">Java</a></li></ul>
+<ul>
+    <li><a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29">Java</a></li>
+</ul>
 
 <!-- Getting Started -->
 <h2><strong>&#x1F3C1 Getting Started</strong></h2>
