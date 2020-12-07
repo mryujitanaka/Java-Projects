@@ -1,12 +1,13 @@
 package yujisremarks;
 public class MethodsChallenge {
     public static void main(String[] args) {
-        // Note that the "playerPosition" variable has the same name as the "playerPosition" parameter of the
-        // "displayHighScorePosition" method.
+        // Note that the "playerPosition" variable (in line 15, for example) has the same name as the "playerPosition"
+        // parameter of the "displayHighScorePosition" method (in line 37).
         //
-        // The use of the same variable name and parameter are the same ("playerPosition") because the value returned
-        // by the calling of the "calculateHighScorePosition" method will be reused in the second call of the
-        // "displayHighScorePosition" method as the value of the "playerPosition" argument.
+        // The use of the variable and parameter name are the same ("playerPosition") because the value returned by the
+        // call of the "calculateHighScorePosition" method (in line 15, for example) will be reused in the
+        // second call of the "displayHighScorePosition" method (in line 16, for example) as the value of the
+        // "playerPosition" argument.
         //
         // Example:
         // "int playerPosition = calculateHighScorePosition(1500);" is "1".
