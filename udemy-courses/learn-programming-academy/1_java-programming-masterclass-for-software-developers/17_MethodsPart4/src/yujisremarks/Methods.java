@@ -17,6 +17,7 @@ public class Methods {
         highScore = calculateScore(gameOver, score, levelCompleted, bonus);
         System.out.println("Your final score was " + highScore);
     }
+    // The value of "finalScore" is being returned to the "highScore" variable as we can see in the line 10.
     public static int calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
         if (gameOver) {
             int finalScore = score + (levelCompleted * bonus);
