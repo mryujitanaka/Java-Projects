@@ -1,6 +1,16 @@
 package yujisremarks;
 public class MethodsChallenge {
     public static void main(String[] args) {
+        // Note that the "playerPosition" variable has the same name as the "playerPosition" parameter of the
+        // "displayHighScorePosition" method.
+        //
+        // The use of the same variable name and parameter are the same ("playerPosition") because the value returned
+        // by the calling of the "calculateHighScorePosition" method will be reused in the second call of the
+        // "displayHighScorePosition" method as the value of the "playerPosition" argument.
+        //
+        // Example:
+        // "int playerPosition = calculateHighScorePosition(1500);" is "1".
+        // "displayHighScorePosition("Fulano", playerPosition);" is "Fulano" and "1".
         int playerPosition = calculateHighScorePosition(1500);
         displayHighScorePosition("Fulano", playerPosition);
 
@@ -22,9 +32,11 @@ public class MethodsChallenge {
         playerPosition = calculateHighScorePosition(100);
         displayHighScorePosition("Fulano Jr.", playerPosition);
     }
+    // 1st Method: "displayHighScorePosition"
     public static void displayHighScorePosition(String playerName, int playerPosition) {
         System.out.println(playerName + " managed to get into position " + playerPosition + " on the high score table.");
     }
+    // 2nd Method: "calculateHighScorePosition"
     public static int calculateHighScorePosition(int playerScore) {
         if (playerScore >= 1000) {
             return 1;
