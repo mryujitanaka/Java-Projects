@@ -39,6 +39,7 @@ public class MethodsChallenge {
     }
     // 2nd Method of the challenge: "calculateHighScorePosition"
     public static int calculateHighScorePosition(int playerScore) {
+        /*
         if (playerScore >= 1000) {
             return 1;
         } else if (playerScore >= 500) {
@@ -47,5 +48,18 @@ public class MethodsChallenge {
             return 3;
         }
         return 4;
+        */
+
+    // Another alternative solution for the "calculateHighScorePosition" method:
+        // Assuming position 4 will be returned.
+        int position = 4;
+        if (playerScore >= 1000) {
+            position = 1;
+        } else if (playerScore >= 500) {
+            position = 2;
+        } else if (playerScore >= 100) {
+            position = 3;
+        }
+        return position;
     }
 }
