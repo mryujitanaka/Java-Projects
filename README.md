@@ -20,6 +20,11 @@
 
 <!-- Getting Started -->
 <h2><strong>&#x1F3C1 Getting Started</strong></h2>
+    <p>To make the most of the content published here, you must have one of the two pre-requirements below:</p>
+    <ol>
+        <li>Familiarity with Java.</li>
+        <li>If you don't know Java, take the courses that are listed as <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">references</a> for this project.</li>
+    </ol>
 
 <!-- Prerequisites -->
 ### Prerequisites
@@ -32,7 +37,8 @@
 
 <!-- To Do -->
 ## To Do
-- [ ] Finish editing the README
+- [ ] Finish editing the [README](https://github.com/vyujitanaka/Java-Projects/blob/master/README.md)
+- [ ] Finish the course [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/) by [Tim Buchalka's Learn Programming Academy](https://www.udemy.com/user/learn-programming-academy/)
 
 <!-- License -->
 ## License
