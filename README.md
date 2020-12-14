@@ -14,20 +14,22 @@
 
 <!-- Built With -->
 <h2><strong>&#x1F6E0 Built With</strong></h2>
-<ul>
-    <li><a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29">Java</a></li>
-</ul>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29">Java</a></li>
+    </ul>
 
 <!-- Getting Started -->
 <h2><strong>&#x1F3C1 Getting Started</strong></h2>
     <p>To make the most of the content published here, you must have one of the two pre-requirements below:</p>
     <ol>
         <li>Familiarity with Java.</li>
-        <li>If you don't know Java, take the courses that are listed as <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">references</a> for this project.</li>
+        <p>or</p>
+        <li>If you don't know Java, take the courses that are listed in the <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">Acknowledgements</a> for this project.</li>
     </ol>
 
 <!-- Prerequisites -->
 ### Prerequisites
+
 
 <!-- Usage Examples -->
 ## Usage
