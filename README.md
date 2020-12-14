@@ -21,11 +21,13 @@
 <!-- Getting Started -->
 <h2><strong>&#x1F3C1 Getting Started</strong></h2>
     <p>To make the most of the content published here, you must have one of the two pre-requirements below:</p>
-    <ol>
+    <ul>
         <li>Familiarity with Java.</li>
-        <p>or</p>
+    </ul>
+    <p>or</p>
+    <ul>
         <li>If you don't know Java, take the courses that are listed in the <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">Acknowledgements</a> for this project.</li>
-    </ol>
+    </ul>
 
 <!-- Prerequisites -->
 ### Prerequisites
