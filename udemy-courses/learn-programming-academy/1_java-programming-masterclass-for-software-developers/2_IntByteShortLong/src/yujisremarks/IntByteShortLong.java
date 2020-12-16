@@ -43,6 +43,7 @@ public class IntByteShortLong {
 
         System.out.println();
 
+        // Minimum and Maximum Long numbers that can be stored in memory
         // Size: occupies 64 bits amount of memory, width of 64
         long myMinLongValue = Long.MIN_VALUE;
         long myMaxLongValue = Long.MAX_VALUE;
