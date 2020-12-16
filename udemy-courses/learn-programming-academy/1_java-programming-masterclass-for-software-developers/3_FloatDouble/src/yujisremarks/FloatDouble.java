@@ -20,7 +20,7 @@ public class FloatDouble {
         System.out.println();
 
         // Note:
-        int myIntValue = 5 / 2;
+        int myIntValue = 5 / 3;
         // float myFloatValue = (float) 5.25;
         float myFloatValue = 5f / 3f;
         // double myDoubleValue = 5.00 / 3.00;
