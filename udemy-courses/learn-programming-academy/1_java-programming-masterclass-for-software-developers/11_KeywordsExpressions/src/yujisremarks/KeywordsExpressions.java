@@ -7,9 +7,9 @@ public class KeywordsExpressions {
         // An expression is a construct made up of variables, values, operators, and method invocations, which are
         // constructed according to the syntax of the language, that evaluates to a single value.
         // Example:
-        // "kilometres = (100d * 1.609344)" is an expression. But not the "double". Actually, data types don't form
+        // "kilometres = (100d * 1.609344d)" is an expression. But not the "double". Actually, data types don't form
         // part of an expression.
-        double kilometres = (100d * 1.609344);
+        double kilometres = (100d * 1.609344d);
 
         // Another example:
         // "highScore = 50" is an expression.
