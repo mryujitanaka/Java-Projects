@@ -20,6 +20,7 @@
 
 <!-- Getting Started -->
 <h2><strong>&#x1F3C1 Getting Started</strong></h2>
+    <p>All projects in this repository were created via <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a>. But if you use another <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a>, these projects will probably work for you. But you may need to make some changes to the files.</p>
     <p>To make the most of the content published here, you must have one of the two pre-requirements below:</p>
     <ul>
         <li>Familiarity with Java.</li>
@@ -31,7 +32,11 @@
 
 <!-- Prerequisites -->
 ### Prerequisites
+All projects are organized in a numbered way (example: 1_ProjectNameOne, 2_ProjectName2, etc.).
 
+All projects are organized in folders with the name of the course I took (example: 1_java-programming-masterclass-for-software-developers).
+
+If you don't want to download an entire project, you can access the source code from a project by navigating to the "src" folder (without quotes).
 
 <!-- Usage Examples -->
 ## Usage
