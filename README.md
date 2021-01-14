@@ -29,7 +29,7 @@
 
 <!-- Prerequisites -->
 ### Prerequisites
-All projects are organized in a numbered way (example: 1_ProjectNameOne, 2_ProjectName2, etc.).
+All projects are organized in a numbered way (example: 1_ProjectNameOne, 2_ProjectNameTwo, etc.).
 
 All projects are organized in folders with the name of the course I took (example: 1_java-programming-masterclass-for-software-developers).
 
