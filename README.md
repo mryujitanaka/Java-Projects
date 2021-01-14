@@ -79,3 +79,5 @@ Distributed under the GPLv3 License. For more information, click [here](https://
 * [Oracle Java](https://www.oracle.com/java/)
 * [Java Tutorial by w3schools](https://www.w3schools.com/java/default.asp)
 * [Java Programming Language by Geeks for Geeks](https://www.geeksforgeeks.org/java/)
+* [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
