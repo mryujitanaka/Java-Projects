@@ -36,7 +36,7 @@ All projects are organized in folders with the name of the course I took (exampl
 If you don't want to download an entire project, you can access the source code from a project by navigating to the "src" folder (without quotes).
 
 <!-- Usage Examples -->
-## Usage
+### Usage
 
 <!-- Contributing -->
 ## Contributing
