@@ -2,7 +2,8 @@ package yujisremarks;
 public class MethodOverloading {
     public static void main(String[] args) {
         // Method Overloading
-        // Method Overloading is when we have multiple methods with the same name with different parameters.
+        // Method Overloading is when we have multiple methods with the same name with different number of parameters,
+        // different types of parameters, or both.
         int newScore = calculateScore("Legolas", 500);
         System.out.println("New score is " + newScore);
 
