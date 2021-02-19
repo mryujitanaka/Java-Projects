@@ -5,22 +5,24 @@ public class MethodOverloadingChallenge {
             // Feet and Inches to Centimeters
             double feetToCentimeters = feet * 30.48d;
             double inchesToCentimeters = inches * 2.54d;
+            System.out.println("feetToCentimeters = " + feetToCentimeters);
+            System.out.println("inchesToCentimeters = " + inchesToCentimeters);
             return (feetToCentimeters + inchesToCentimeters);
         } return -1;
     }
 
     public static double calcFeetAndInchesToCentimeters(double inches) {
-        if (inches >= 0d) {
+        double inchesToFeet = inches;
+        if (inchesToFeet >= 0d) {
             // Inches to Feet
-            return (inches / 12d);
+            return (inchesToFeet / 12d);
         } return -1;
     }
 
     public static void main(String[] args) {
-        double result = calcFeetAndInchesToCentimeters(1,1);
-        System.out.println(result);
-
+        double result = calcFeetAndInchesToCentimeters(2,2);
+        System.out.println("Total = " + result);
         result = calcFeetAndInchesToCentimeters(33.02);
-        System.out.println(result);
+        System.out.println("inchesToFeet = " + result);
     }
 }
