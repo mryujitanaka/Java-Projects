@@ -5,24 +5,29 @@ public class MethodOverloadingChallenge {
             // Feet and Inches to Centimeters
             double feetToCentimeters = feet * 30.48d;
             double inchesToCentimeters = inches * 2.54d;
-            System.out.println("feetToCentimeters = " + feetToCentimeters);
-            System.out.println("inchesToCentimeters = " + inchesToCentimeters);
-            return (feetToCentimeters + inchesToCentimeters);
-        } return -1;
+            // Sum between the values converted to centimeters
+            double centimeters = feetToCentimeters + inchesToCentimeters;
+            System.out.println(feet + " feet + " + inches + " inches = " + centimeters + " cm");
+            return centimeters;
+        }
+        System.out.println("Error! Invalid feet or inches parameters!");
+        return -1;
     }
 
     public static double calcFeetAndInchesToCentimeters(double inches) {
-        double inchesToFeet = inches;
-        if (inchesToFeet >= 0d) {
+        if (inches >= 0d) {
             // Inches to Feet
-            return (inchesToFeet / 12d);
-        } return -1;
+            double feet = (int) inches / 12;
+            double remainingInches = (int) inches % 12;
+            System.out.println(inches + " inches = " + feet + " feet and " + remainingInches + " inches");
+            return calcFeetAndInchesToCentimeters(feet, remainingInches);
+        }
+        System.out.println("Error! Inches < 0");
+        return -1;
     }
 
     public static void main(String[] args) {
-        double result = calcFeetAndInchesToCentimeters(2,2);
-        System.out.println("Total = " + result);
-        result = calcFeetAndInchesToCentimeters(33.02);
-        System.out.println("inchesToFeet = " + result);
+        calcFeetAndInchesToCentimeters(6,0);
+        calcFeetAndInchesToCentimeters(157);
     }
 }
