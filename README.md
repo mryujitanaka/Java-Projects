@@ -24,7 +24,7 @@
     <p>To make the most of the content published here, you must have familiarity with Java.</p>
     <p>If you don't know Java, take the courses that are listed in the <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">Acknowledgements</a> of this project.</p>
     <p>Some projects are exercises that you probably will not understand the context of the code. This is due to the fact that it is an exercise in a paid course. In order not to inflict copyright, the statements of the exercises was not published in this repository in order to maintain integrity, respect and ethics towards the author of the exercise.</p>
-    <p>The fact that the answer to an exercise is posted here, I did not inflict copyright because the answers are mine or based on free information sources available on the internet.</p>
+    <p>The fact that the answer to an exercise is posted here not inflict copyright because the answers are mine or based on free information sources available on the internet.</p>
     <p>If you want to know the wording of an exercise that was not placed in this repository, you can access the links listed in the <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">Acknowledgements</a> to take the course.</p>
 
 <!-- Prerequisites -->
