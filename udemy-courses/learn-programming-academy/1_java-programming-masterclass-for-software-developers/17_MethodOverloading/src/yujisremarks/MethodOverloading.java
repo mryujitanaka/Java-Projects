@@ -7,7 +7,8 @@ public class MethodOverloading {
         int newScore = calculateScore("Legolas", 500);
         System.out.println("New score is " + newScore + ".");
 
-        calculateScore(75);
+        int brandNewScore = calculateScore(75);
+        System.out.println("Brand new score is " + brandNewScore + ".");
 
         // We cannot enter other values with data types other than the parameters we declare in our methods. In other
         // words, a standard of quantity of values and data types must be followed.
