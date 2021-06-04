@@ -22,7 +22,6 @@
 <h2><strong>&#x1F3C1 Getting Started</strong></h2>
     <p>All projects in this repository were created via <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a>. But if you use another <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a>, these projects will probably work for you. However, you may need to make some changes to the files.</p>
     <p>To make the most of the content published here, you must have familiarity with Java.</p>
-    <p>If you don't know Java, take the courses that are listed in the <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">Acknowledgements</a> of this project.</p>
     <p>Some projects are exercises that you probably will not understand the context of the code. This is due to the fact that it is an exercise in a paid course. In order not to inflict copyright, the statements of the exercises was not published in this repository in order to maintain integrity, respect and ethics towards the author of the exercise.</p>
     <p>The fact that the answer to an exercise is posted here not inflict copyright because the answers are mine or based on free information sources available on the internet.</p>
     <p>If you want to know the wording of an exercise that was not placed in this repository, you can access the links listed in the <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">Acknowledgements</a> to take the course.</p>
