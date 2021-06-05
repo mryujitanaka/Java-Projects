@@ -26,9 +26,11 @@
     <p>The fact that the answer to an exercise is posted here not inflict copyright because the answers are mine or based on free information sources available on the internet.</p>
     <p>If you want to know the wording of an exercise that was not placed in this repository, you can access the links listed in the <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">Acknowledgements</a> to take the course.</p>
     <p><strong>NOTES:</strong></p>
-    <p>All projects are organized in a numbered way (example: 1_ProjectNameOne, 2_ProjectNameTwo, etc.).</p>
-    <p>All projects are organized in folders with the name of the course I took (example: 1_java-programming-masterclass-for-software-developers).</p>
-    <p>If you don't want to download an entire project, you can access the source code from a project by navigating to the "src" folder (without quotes).</p>
+    <ul>
+        <li>All projects are organized in a numbered way (example: 1_ProjectNameOne, 2_ProjectNameTwo, etc.).</li>
+        <li>All projects are organized in folders with the name of the course I took (example: 1_java-programming-masterclass-for-software-developers).</li>
+        <li>If you don't want to download an entire project, you can access the source code from a project by navigating to the "src" folder (without quotes).</li>
+    </ul>
 
 <!-- Prerequisites -->
 <h3><strong>Prerequisites</strong></h3>
