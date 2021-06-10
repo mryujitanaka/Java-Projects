@@ -10,7 +10,7 @@ public class OlaMundoSwing {
     private JLabel lblMensagem;
 
     public OlaMundoSwing() {
-        btnClique.addActionListener(new ActionListener() {
+        btnClique.addActionListener (new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 lblMensagem.setText("Ola, Mundo!");
