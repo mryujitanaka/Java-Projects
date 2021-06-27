@@ -23,7 +23,7 @@
         </constraints>
         <properties>
           <font size="28"/>
-          <foreground color="-4518656"/>
+          <foreground color="-65519"/>
           <text value="Nova mensagem!"/>
         </properties>
       </component>
