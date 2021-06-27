@@ -1,16 +1,16 @@
-package cursoemvideo.olamundoswing;
+package olamundoswing;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class OlaMundoSwing {
-    private JButton btnClique;
     private JPanel panelPrincipal;
+    private JButton btnClique;
     private JLabel lblMensagem;
 
     public OlaMundoSwing() {
-        btnClique.addActionListener (new ActionListener() {
+        btnClique.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 lblMensagem.setText("Ola, Mundo!");

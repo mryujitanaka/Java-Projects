@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="OlaMundoSwing:jar" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e4dfa12-70ab-4122-a872-c616d598a46e" name="Default Changelist" comment="">
+    <list default="true" id="06da2da4-4471-48de-a064-095c64fb016a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/olamundoswing/OlaMundoSwing.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/olamundoswing/OlaMundoSwing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/OlaMundoSwing_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/OlaMundoSwing_jar/OlaMundoSwing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlaMundoSwing/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlaMundoSwing/cursoemvideo/olamundoswing/OlaMundoSwing$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OlaMundoSwing/cursoemvideo/olamundoswing/OlaMundoSwing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursoemvideo/olamundoswing/OlaMundoSwing.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursoemvideo/olamundoswing/OlaMundoSwing.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
-  <component name="ProjectId" id="1tfcZBFcbgJZ10L8jNWxPJ35l57" />
+  <component name="ProjectId" id="1uVji9PD3GLTVXq0AAVPYyXD4m8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -35,20 +40,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../CURSOS/Java/YouTube/Curso em Vídeo/Testes" />
+    <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="android.project.structure" />
   </component>
   <component name="RunManager">
     <configuration name="OlaMundoSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursoemvideo.olamundoswing.OlaMundoSwing" />
+      <option name="MAIN_CLASS_NAME" value="olamundoswing.OlaMundoSwing" />
       <module name="OlaMundoSwing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursoemvideo.olamundoswing.*" />
+          <option name="PATTERN" value="olamundoswing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,11 +69,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e4dfa12-70ab-4122-a872-c616d598a46e" name="Default Changelist" comment="" />
-      <created>1623163636993</created>
+      <changelist id="06da2da4-4471-48de-a064-095c64fb016a" name="Default Changelist" comment="" />
+      <created>1624757774735</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1623163636993</updated>
+      <updated>1624757774735</updated>
     </task>
     <servers />
   </component>
@@ -83,6 +87,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
