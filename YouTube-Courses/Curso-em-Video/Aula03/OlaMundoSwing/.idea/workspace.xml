@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06da2da4-4471-48de-a064-095c64fb016a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/olamundoswing/OlaMundoSwing.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/olamundoswing/OlaMundoSwing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/OlaMundoSwing_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OlaMundoSwing_jar/OlaMundoSwing.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OlaMundoSwing/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OlaMundoSwing/cursoemvideo/olamundoswing/OlaMundoSwing$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OlaMundoSwing/cursoemvideo/olamundoswing/OlaMundoSwing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursoemvideo/olamundoswing/OlaMundoSwing.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursoemvideo/olamundoswing/OlaMundoSwing.java" beforeDir="false" />
-    </list>
+    <list default="true" id="06da2da4-4471-48de-a064-095c64fb016a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
