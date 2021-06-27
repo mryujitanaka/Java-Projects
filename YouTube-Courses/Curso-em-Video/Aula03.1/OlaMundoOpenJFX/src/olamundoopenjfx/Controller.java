@@ -9,7 +9,7 @@ public class Controller {
     @FXML
     public Label lblMensagem;
 
-    public void clicouBotao(Event e){
+    public void clicouBotao(Event e) {
         lblMensagem.setText("Ola, Mundo!");
     }
 }
