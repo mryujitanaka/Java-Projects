@@ -1,4 +1,4 @@
-package sample;
+package olamundoopenjfx;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
