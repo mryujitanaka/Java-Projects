@@ -20,7 +20,7 @@
 
 <!-- Getting Started -->
 <h2><strong>&#x1F3C1 Getting Started</strong></h2>
-    <p>All projects in this repository were created with <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA Community</a>, a free and open source Integrated Development Environment (IDE). But if you use another <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a>, these projects will probably work for you. However, you may need to make some changes to the files.</p>
+    <p>All projects in this repository were created with <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA Community</a>, a free and open source <a href="https://en.wikipedia.org/wiki/Integrated_development_environment">Integrated Development Environment</a> (IDE). But if you use another IDE, these projects will probably work for you. However, you may need to make some changes to the files.</p>
     <p>All projects in this repository were made from <a href="https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/what-is-corretto-11.html">Amazon Corretto 11</a>, a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (<a href="https://openjdk.java.net/">OpenJDK</a>).</p>
     <p>To make the most of the content published here, you must have familiarity with Java.</p>
     <p>Some projects are exercises that you probably will not understand the context of the code. This is due to the fact that it is an exercise in a paid course. In order not to inflict copyright, the statements of the exercises was not published in this repository in order to maintain integrity, respect and ethics towards the author of the exercise.</p>
