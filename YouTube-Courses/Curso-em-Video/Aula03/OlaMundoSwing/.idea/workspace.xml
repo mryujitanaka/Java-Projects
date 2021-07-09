@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06da2da4-4471-48de-a064-095c64fb016a" name="Default Changelist" comment="" />
+    <list default="true" id="06da2da4-4471-48de-a064-095c64fb016a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Aula03.1/OlaMundoOpenJFX/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aula03.1/OlaMundoOpenJFX/.idea/artifacts/JavaFXApp.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
