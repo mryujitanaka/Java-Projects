@@ -80,8 +80,8 @@ Distributed under the GPLv3 License. For more information, click [here](https://
 
 <!-- Acknowledgements-->
 ## Acknowledgements
-* [Curso de Java para Iniciantes - Grátis, Completo e com Certificado by Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
-* [Curso de POO Java (Programação Orientada a Objetos) by Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+* [Curso de Java para Iniciantes - Grátis, Completo e com Certificado by Curso em Vídeo](https://www.cursoemvideo.com/course/java-basico/)
+* [Curso de POO Java (Programação Orientada a Objetos) by Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/)
 * [Java Programming Masterclass for Software Developers by Tim Buchalka's Learn Programming Academy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 * [Oracle Java](https://www.oracle.com/java/)
 * [Java Tutorial by w3schools](https://www.w3schools.com/java/default.asp)
