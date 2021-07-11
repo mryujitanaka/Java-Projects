@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06da2da4-4471-48de-a064-095c64fb016a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Aula03.1/OlaMundoOpenJFX/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula03.1/OlaMundoOpenJFX/.idea/artifacts/JavaFXApp.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="06da2da4-4471-48de-a064-095c64fb016a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
   <component name="ProjectId" id="1uVji9PD3GLTVXq0AAVPYyXD4m8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,11 +33,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Aula03.1/OlaMundoOpenJFX" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../6_Aula03.1/OlaMundoOpenJFX" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="android.project.structure" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="OlaMundoSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
