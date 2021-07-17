@@ -56,8 +56,8 @@
 <p>&#9723; Finish the course <a href="https://www.udemy.com/course/java-the-complete-java-developer-course/">Java Programming Masterclass for Software Developers</a> by <a href="https://www.udemy.com/user/learn-programming-academy/">Tim Buchalka's Learn Programming Academy</a></p>
 
 <!-- License -->
-## License
-Distributed under the GPLv3 License. For more information, click [here](https://github.com/vyujitanaka/Java-Projects/blob/master/LICENSE).
+<h2><strong>&#9878; License</strong></h2>
+<p>Distributed under the GPLv3 License. For more information, click <a href="https://github.com/vyujitanaka/Java-Projects/blob/master/LICENSE">here</a>.<p>
 
 <!-- License Logos -->
 <p align = "left">
