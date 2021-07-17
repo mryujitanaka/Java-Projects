@@ -61,7 +61,6 @@
 
 <!-- To Do -->
 <h2><strong>&#128221; To Do</strong></h2>
-<p>&#9723; Finish editing the <a href="https://github.com/vyujitanaka/Java-Projects/blob/master/README.md">README</a></p>
 <p>&#9723; Finish the course <a href="https://www.udemy.com/course/java-the-complete-java-developer-course/">Java Programming Masterclass for Software Developers</a> by <a href="https://www.udemy.com/user/learn-programming-academy/">Tim Buchalka's Learn Programming Academy</a></p>
 
 <!-- License -->
