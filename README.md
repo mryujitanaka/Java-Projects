@@ -47,7 +47,9 @@
 ### Usage
 &#128073; Assuming you're not going to download the entire project from this repository, choose between [Udemy-Courses](https://github.com/vyujitanaka/Java-Projects/tree/master/Udemy-Courses) or [YouTube-Courses](https://github.com/vyujitanaka/Java-Projects/tree/master/YouTube-Courses) folders to access the desired project.
 
-&#128073; GitHub is smart enough to take you straight to each project's folders. That's because it skips empty directories.
+&#128073; GitHub is smart enough to take you straight to each project's folders. That's because it skips empty directories. So, just click on one of the options below:
+
+<p><img src="images/Screenshot-1.png" alt="Screenshot 1"></p>
 
 &#128073;Browse through the folders and choose one to analyze, study and/or download the project you want.
 
