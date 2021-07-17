@@ -51,9 +51,9 @@
 <p>Improvements are always welcome, but they are only possible if you contribute in some way. Do not be shy! If you found any errors in this project, click <a href="https://github.com/vyujitanaka/Java-Projects/issues">here</a>.</p>
 
 <!-- To Do -->
-## To Do
-- [ ] Finish editing the [README](https://github.com/vyujitanaka/Java-Projects/blob/master/README.md)
-- [ ] Finish the course [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/) by [Tim Buchalka's Learn Programming Academy](https://www.udemy.com/user/learn-programming-academy/)
+<h2><strong>&#128221; To Do</strong></h2>
+<p>&#9723; Finish editing the <a href="https://github.com/vyujitanaka/Java-Projects/blob/master/README.md">README</a></p>
+<p>&#9723; Finish the course <a href="https://www.udemy.com/course/java-the-complete-java-developer-course/">Java Programming Masterclass for Software Developers</a> by <a href="https://www.udemy.com/user/learn-programming-academy/">Tim Buchalka's Learn Programming Academy</a></p>
 
 <!-- License -->
 ## License
