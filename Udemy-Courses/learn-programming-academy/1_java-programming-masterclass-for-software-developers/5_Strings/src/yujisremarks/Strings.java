@@ -24,7 +24,7 @@ public class Strings {
         myStringValue = myStringValue + ", and this is more.";
         System.out.println("myStringValue = " + myStringValue);
 
-        myStringValue = myStringValue + " \u00A9 2020";
+        myStringValue = myStringValue + " \u00A9 2021";
         System.out.println("myStringValue = " + myStringValue);
 
         System.out.println();
