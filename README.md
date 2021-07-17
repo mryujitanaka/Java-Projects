@@ -44,7 +44,11 @@
     </ul>
     
 <!-- Usage Examples -->
-<h3><strong>Usage</strong></h3>
+### Usage
+&#128073; Assuming you're not going to download the entire project from this repository, choose between [Udemy-Courses](https://github.com/vyujitanaka/Java-Projects/tree/master/Udemy-Courses) or [YouTube-Courses](https://github.com/vyujitanaka/Java-Projects/tree/master/YouTube-Courses) folders to access the desired project.
+&#128073; GitHub is smart enough to take you straight to each project's folders. That's because it skips empty directories.
+&#128073;Browse through the folders and choose one to analyze, study and/or download the project you want.
+&#127881; That's it! Now test the project you have chosen on your computer and give me your feedback!
 
 <!-- Contributing -->
 <h2><strong>&#128200;&#129309; Contributing</strong></h2>
