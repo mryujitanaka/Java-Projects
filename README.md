@@ -47,7 +47,8 @@
 <h3><strong>Usage</strong></h3>
 
 <!-- Contributing -->
-## Contributing
+<h2><strong>&#128200;&#129309; Contributing</strong></h2>
+<p>Improvements are always welcome, but they are only possible if you contribute in some way. Do not be shy! If you found any errors in this project, click <a href="https://github.com/vyujitanaka/Java-Projects/issues">here</a>.</p>
 
 <!-- To Do -->
 ## To Do
@@ -77,15 +78,19 @@ Distributed under the GPLv3 License. For more information, click [here](https://
 </p>
 
 <!-- Contact -->
-## Contact
+<h2><strong>&#128421; Contact</strong></h2>
+<p>&#128231; contact@yujisremarks.com</p>
+<p>&#127760; <a href="https://linktr.ee/vyujitanaka">interwebs</a></p>
 
 <!-- Acknowledgements-->
-## Acknowledgements
-* [Curso de Java para Iniciantes - Grátis, Completo e com Certificado by Curso em Vídeo](https://www.cursoemvideo.com/course/java-basico/)
-* [Curso de POO Java (Programação Orientada a Objetos) by Curso em Vídeo](https://www.cursoemvideo.com/course/java-poo/)
-* [Java Programming Masterclass for Software Developers by Tim Buchalka's Learn Programming Academy](https://www.udemy.com/course/java-the-complete-java-developer-course/)
-* [Oracle Java](https://www.oracle.com/java/)
-* [Java Tutorial by w3schools](https://www.w3schools.com/java/default.asp)
-* [Java Programming Language by Geeks for Geeks](https://www.geeksforgeeks.org/java/)
-* [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+<h2><strong>&#129392; Acknowledgements</strong></h2>
+<ul>
+    <li><a href="https://www.cursoemvideo.com/course/java-basico/">Curso de Java para Iniciantes - Grátis, Completo e com Certificado by Curso em Vídeo</a></li>
+    <li><a href="https://www.cursoemvideo.com/course/java-poo/">Curso de POO Java (Programação Orientada a Objetos) by Curso em Vídeo</a></li>
+    <li><a href="https://www.udemy.com/course/java-the-complete-java-developer-course/">Java Programming Masterclass for Software Developers by Tim Buchalka's Learn Programming Academy</a></li>
+    <li><a href="https://www.oracle.com/java/">Oracle Java</a></li>
+    <li><a href="https://www.w3schools.com/java/default.asp">Java Tutorial by w3schools</a></li>
+    <li><a href="https://www.geeksforgeeks.org/java/">Java Programming Language by Geeks for Geeks</a></li>
+    <li><a href="https://github.com/ikatyang/emoji-cheat-sheet">emoji-cheat-sheet</a></li>
+    <li><a href="https://github.com/othneildrew/Best-README-Template">Best-README-Template</a></li>
+</ul>
