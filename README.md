@@ -16,6 +16,7 @@
 <h2><strong>&#x1F6E0 Built With</strong></h2>
     <ul>
         <li><a href="https://en.wikipedia.org/wiki/Java_%28programming_language%29">Java</a></li>
+        <li><a href="https://openjfx.io/">JavaFX</a></li>
     </ul>
 
 <!-- Getting Started -->
