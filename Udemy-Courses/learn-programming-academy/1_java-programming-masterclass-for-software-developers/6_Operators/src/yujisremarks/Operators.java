@@ -6,25 +6,25 @@ public class Operators {
         System.out.println("1 + 2 = " + result);
 
         int previousResult = result;
-        System.out.println("previousResult = " + previousResult);
+        System.out.println("Previous Result = " + previousResult); // 3
 
         result = result - 1; // 3 - 1 = 2
         System.out.println("3 - 1 = " + result);
 
-        int previousResult2 = result;
-        System.out.println("previousResult = " + previousResult2);
+        previousResult = result;
+        System.out.println("Previous Result = " + previousResult); // 2
 
         result = result * 10; // 2 * 10 = 20
         System.out.println("2 * 10 = " + result);
 
-        int previousResult3 = result;
-        System.out.println("previousResult = " + previousResult3);
+        previousResult = result;
+        System.out.println("Previous Result = " + previousResult); // 20
 
         result = result / 5; // 20 / 5 = 4
         System.out.println("20 / 5 = " + result);
 
-        int previousResult4 = result;
-        System.out.println("previousResult = " + previousResult4);
+        previousResult = result;
+        System.out.println("Previous Result = " + previousResult); // 4
 
         result = result % 3; // the remainder of (4 % 3) = 1
         System.out.println("4 % 3 = " + result);
