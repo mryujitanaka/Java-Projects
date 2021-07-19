@@ -9,7 +9,7 @@
 
 <!-- About the Project -->
 <h2><strong>&#x1F9D0 About the Project</strong></h2>
-    <p>This project is a kind of BIG folder where I keep all the documents related to my learning about Java. It is also a time capsule where I can always go back and review some content.</p>
+    <p>This project is a kind of BIG folder where I keep all the "documents" related to my learning about Java. It is also a time capsule where I can always go back and review some content.</p>
     <p>I believe that all knowledge on any subject should be shared with people. For that reason, I created this repository in order to be able to help the others. I hope this fulfills the purpose in some way.</p>
 
 <!-- Built With -->
@@ -27,10 +27,12 @@
     <p>Some projects are exercises that you probably will not understand the context of the code. This is due to the fact that it is an exercise in a paid course. In order not to inflict copyright, the statements of the exercises was not published in this repository in order to maintain integrity, respect and ethics towards the author of the exercise.</p>
     <p>The fact that the answer to an exercise is posted here not inflict copyright because the answers are mine or based on free information sources available on the internet.</p>
     <p>If you want to know the wording of an exercise that was not placed in this repository, you can access the links listed in the <a href="https://github.com/vyujitanaka/Java-Projects#acknowledgements">Acknowledgements</a> to take the course.</p>
-    <p><strong>NOTES:</strong></p>
+
+<!-- Notes -->
+<h3><strong>NOTES:</strong></h3>
     <ul>
         <li>All projects are organized in a numbered way (example: 1_ProjectNameOne, 2_ProjectNameTwo, etc.).</li>
-        <li>All projects are organized in folders with the name of the course I took (example: 1_java-programming-masterclass-for-software-developers).</li>
+        <li>All projects are organized in folders with the name of the course I attended (example: 1_java-programming-masterclass-for-software-developers).</li>
         <li>If you don't want to download an entire project, you can access the source code from a project by navigating to the "src" folder (without quotes).</li>
     </ul>
 
@@ -51,7 +53,7 @@
 
 <p><img src="images/Screenshot-1.png" alt="Screenshot 1"></p>
 
-&#128073;Browse through the folders and choose one to analyze, study and/or download the project you want.
+&#128073; Browse through the folders and choose one to analyze, study and/or download the project you want.
 
 &#127881; That's it! Now test the project you have chosen on your computer and give me your feedback!
 
