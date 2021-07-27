@@ -24,6 +24,8 @@ public class TernaryOperator {
         // Another example using the ternary operator
         int ageOfClient = 20;
         boolean isEighteenOrOver = (ageOfClient == 20) ? true : false;
-        System.out.println("The client is over 18 years old.");
+        if (isEighteenOrOver) {
+            System.out.println("The client is over 18 years old.");
+        }
     }
 }
