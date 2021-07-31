@@ -30,5 +30,7 @@ public class KeywordsExpressions {
             System.out.println("You got the high score!");
             score = 0;
         }
+
+        // Note: Practically, everything inside a parentheses () is an expression.
     }
 }
