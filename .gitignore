@@ -1,4 +1,4 @@
 /.metadata/
 
 # Intellij IDEA specific files
-.idea/
+*.idea
