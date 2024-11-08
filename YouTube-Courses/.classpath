@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Bro-Code/1_Java-tutorial-for-beginners/Lesson-01_Java-tutorial-for-beginners/src"/>
+	<classpathentry kind="src" path="Bro-Code/1_Java-tutorial-for-beginners/Lesson-02_Variables-in-Java/src"/>
+	<classpathentry kind="src" path="Bro-Code/1_Java-tutorial-for-beginners/Lesson-03_How-to-swap-2-variables/src"/>
+	<classpathentry kind="src" path="Bro-Code/1_Java-tutorial-for-beginners/Lesson-04_How-to-accept-user-input-in-Java/src"/>
+	<classpathentry kind="src" path="Curso-em-Video/1_Curso-de-Java-para-Iniciantes/1_Aula01/PrimeiroPrograma/src"/>
+	<classpathentry kind="src" path="Curso-em-Video/1_Curso-de-Java-para-Iniciantes/2_Aula02/HoraDoSistema/src"/>
+	<classpathentry kind="src" path="Curso-em-Video/1_Curso-de-Java-para-Iniciantes/3_Aula02.1/IdiomaSistema/src"/>
+	<classpathentry kind="src" path="Curso-em-Video/1_Curso-de-Java-para-Iniciantes/4_Aula02.2/ResolucaoTela/src"/>
+	<classpathentry kind="src" path="Curso-em-Video/1_Curso-de-Java-para-Iniciantes/5_Aula03/OlaMundoSwing/src"/>
+	<classpathentry kind="src" path="Curso-em-Video/1_Curso-de-Java-para-Iniciantes/6_Aula03.1/OlaMundoOpenJFX/src"/>
+	<classpathentry kind="lib" path="Curso-em-Video/1_Curso-de-Java-para-Iniciantes/5_Aula03/OlaMundoSwing/out/artifacts/OlaMundoSwing_jar/OlaMundoSwing.jar"/>
+	<classpathentry kind="lib" path="Curso-em-Video/1_Curso-de-Java-para-Iniciantes/6_Aula03.1/OlaMundoOpenJFX/out/artifacts/OlaMundoOpenJFX/OlaMundoOpenJFX.jar"/>
+	<classpathentry kind="output" path="Bro-Code/1_Java-tutorial-for-beginners/Lesson-01_Java-tutorial-for-beginners/bin"/>
+</classpath>
