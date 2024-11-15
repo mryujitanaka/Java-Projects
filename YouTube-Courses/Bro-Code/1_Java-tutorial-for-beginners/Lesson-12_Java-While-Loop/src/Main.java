@@ -24,7 +24,6 @@ public class Main {
 		}
 		
 		while(name.isBlank());
-		
 		System.out.println("Hello, " +name);
 		
 	}
