@@ -9,8 +9,8 @@ public class Main {
 		// || = (OR) either conditions must be true.
 		// ! = (NOT) reverses boolean value of condition.
 		
-		// && (AND)
 		/*
+		// && (AND)
 		int temp = 19;
 		
 		if(temp>30) {
@@ -54,7 +54,8 @@ public class Main {
 			System.out.println("You quit the game!");
 		}
 				
-		scanner.close();
+	 	scanner.close();
+
 	}
 
 }
