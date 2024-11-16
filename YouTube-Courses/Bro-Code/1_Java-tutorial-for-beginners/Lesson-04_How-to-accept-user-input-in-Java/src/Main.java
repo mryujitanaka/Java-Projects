@@ -20,6 +20,8 @@ public class Main {
 		System.out.println("You are "+age+" years old");
 		System.out.println("Your favorite food is "+food);
 		System.out.println("You wake up "+times+" times in the middle of the night");
+		
+		scanner.close();
 
 	}
 
