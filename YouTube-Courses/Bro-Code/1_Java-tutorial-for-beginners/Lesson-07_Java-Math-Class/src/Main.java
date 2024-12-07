@@ -45,7 +45,7 @@ public class Main {
 		System.out.println("The hypotenuse is "+z);
 		
 		scanner.close();
-
+		
 	}
 
 }
