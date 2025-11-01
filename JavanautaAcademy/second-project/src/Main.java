@@ -3,11 +3,11 @@ public class Main {
         int age = 29;
         double monthlySalary = 4000.55;
         char gender = 'M';
-        boolean isEmployed = false;
+        boolean isEmployed = true;
 
         System.out.println("Age: " + age);
         System.out.println("Monthly salary: " + monthlySalary);
         System.out.println("Gender: " + gender);
-        System.out.println("Employed by any company? " + isEmployed);
+        System.out.println("Employed by any company: " + isEmployed);
     }
 }
