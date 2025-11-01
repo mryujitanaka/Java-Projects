@@ -1,4 +1,4 @@
-public class Main {
+public class PrimitiveTypes {
     public static void main(String[] args) {
         int age = 29;
         double monthlySalary = 4000.55;
