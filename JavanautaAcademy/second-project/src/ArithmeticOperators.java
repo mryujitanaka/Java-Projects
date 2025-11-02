@@ -15,7 +15,7 @@ public class ArithmeticOperators {
         System.out.println("Total: R$" + totalToPay);
         System.out.println("Discount: R$" + storeDiscount);
         System.out.println("Total to pay: R$" + totalToPayWithDiscount);
-        System.out.println("Split the bill in: " + totalDividing);
+        System.out.println("Split the bill: " + totalDividing);
         System.out.println("Total amount spent in the store during the month: R$" + totalAmountSpentInTheMonth);
     }
 }
