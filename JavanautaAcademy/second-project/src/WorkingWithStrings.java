@@ -1,11 +1,11 @@
 public class WorkingWithStrings {
     public static void main(String[] args) {
         String name = "Yoshi";
-        String nameTwo = " Tanaka";
+        String nameTwo = "Tanaka";
 
         int myStringLength = name.length();
         boolean areEquals = name.equals(nameTwo);
-        String fullName = name.concat(nameTwo);
+        String fullName = name.concat(" " + nameTwo);
 
         System.out.println("Hello, " + name.toUpperCase());
         System.out.println(name + " has " + myStringLength + " characters");
