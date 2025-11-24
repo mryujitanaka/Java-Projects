@@ -13,7 +13,7 @@ public class DataInputAndOutput {
         System.out.println("Type your age: ");
         int age = scanner.nextInt();
 
-        System.out.println("Are you employed? Yes (true) or No (false)?");
+        System.out.println("Are you employed? true (Yes) or false (No)?");
         boolean employed = scanner.nextBoolean();
 
         System.out.println("Name: " + name + ", Age: " + age + ", Employed: " + employed);
