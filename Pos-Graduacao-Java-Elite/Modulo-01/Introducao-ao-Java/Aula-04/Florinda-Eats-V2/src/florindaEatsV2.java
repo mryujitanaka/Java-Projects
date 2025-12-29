@@ -61,4 +61,8 @@ void main() {
         } j--; // incremento/decremento
     } while (j >= 0); // comparação
     IO.println("Total de itens em promoção: " + totalDeItensEmPromocao);
+
+    IO.println("=======");
+    IO.println("for: ");
+    
 }
