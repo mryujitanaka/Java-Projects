@@ -15,11 +15,11 @@ public class Main {
 
         // Another way to use Array
         double[] salarios = new double[5];
-        salarios[0] = 150.00;
-        salarios[1] = 200.00;
-        salarios[2] = 25.00;
-        salarios[3] = 500.00;
-        salarios [4] = 100.00;
+        salarios[0] = 1621.00;
+        salarios[1] = 3242.00;
+        salarios[2] = 4500.00;
+        salarios[3] = 12968.00;
+        salarios[4] = 25936.00;
 
         // Iteração sobre o Array de salários com for
         /*
@@ -30,11 +30,11 @@ public class Main {
 
         // Iteração sobre o Array de salários com for-each
         for (double salario : salarios){
-            System.out.println("Salário: " + salario);
+            System.out.println("Salário: R$ " + salario);
         }
 
         // Alteração de valores do Array de salários
-        salarios[2] = 250.00;
-        System.out.println("Salário da posição 2 alterada: " + salarios[2]);
+        salarios[2] = 6484.00;
+        System.out.println("Salário da posição 2 alterada: R$ " + salarios[2]);
     }
 }
