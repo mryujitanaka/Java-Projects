@@ -4,7 +4,7 @@ import java.util.ArrayList; // Import the ArrayList class
 public class Main {
     public static void main(String[] args) {
 
-        List<String> listaDeCompras = new ArrayList<>();
+        List<String> listaDeCompras = new ArrayList<>(); // Create an ArrayList object
 
         listaDeCompras.add("Mamão");
         listaDeCompras.add("Sabão em Pó");
