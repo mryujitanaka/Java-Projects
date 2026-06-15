@@ -11,7 +11,7 @@ public class Main {
         notasAlunos.put("Mateus", 8.0);
         notasAlunos.put("Maria", 9.9);
 
-        // 1ª forma de iterar sobre o HashMap usando o keySet
+        // Iterar sobre o HashMap com Key-Set
         for (String nomeAluno : notasAlunos.keySet()) {
             double nota = notasAlunos.get(nomeAluno);
             System.out.println(nomeAluno + ": " +nota);
@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println();
 
-        // 2ª forma de iterar sobre o HashMap usando o entrySet
+        // Iterar sobre o HashMap com Entry-Set
         for (Map.Entry<String, Double> nota : notasAlunos.entrySet()) {
             String nomeAluno = nota.getKey();
             double valorNota = nota.getValue();
@@ -28,9 +28,23 @@ public class Main {
 
         System.out.println();
 
+        // Buscar valor de uma chave
         double nota = notasAlunos.get("Alice");
         System.out.println("Nota da Alice: " + nota);
 
+        System.out.println();
 
+        // Retornar quantidade de pares de chave-valor do HashMap
+        int tamanhoHash = notasAlunos.size();
+        System.out.println(tamanhoHash);
+        
+        System.out.println();
+
+        // Remover valor de uma chave do HashMap
+        notasAlunos.remove("Maria");
+        for (String nomeAluno : notasAlunos.keySet()) {
+            double nota2 = notasAlunos.get(nomeAluno);
+            System.out.println(nomeAluno + ": " +nota2);
+        }
     }
 }
