@@ -37,7 +37,7 @@ public class Main {
         // Retornar quantidade de pares de chave-valor do HashMap
         int tamanhoHash = notasAlunos.size();
         System.out.println(tamanhoHash);
-        
+
         System.out.println();
 
         // Remover valor de uma chave do HashMap
