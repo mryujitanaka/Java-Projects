@@ -24,7 +24,6 @@ public class PlantaCasa {
 
     // Segundo Método
     public void pintar() {
-
         System.out.println("Cor: " + cor);
     }
 }
