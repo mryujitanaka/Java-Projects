@@ -8,6 +8,7 @@ public class Main {
         boolean empregadoJava = false;
 
         System.out.println("Idade: " + idade);
+        System.out.println("Quantidade de Pets: " + quantidadePets);
         System.out.println("Salário mensal: " + salarioMensal);
         System.out.println("Gênero: " + genero);
         System.out.println("Trabalhando com Java: " + empregadoJava);
