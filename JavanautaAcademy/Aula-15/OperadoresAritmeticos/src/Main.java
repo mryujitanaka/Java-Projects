@@ -14,6 +14,9 @@ public class Main {
         double valorTotalDividido = valorTotalComDesconto / 2;
         double valorTotalMensal = valorTotalComDesconto * totalDiasMes;
 
-        System.out.println("Valor total = R$ " + valorTotalMensal);
+        System.out.println("Valor total = R$ " + valorTotal);
+        System.out.println("Valor total com desconto= R$ " + valorTotalComDesconto);
+        System.out.println("Valor total com desconto dividido para duas pessoas = " + valorTotalDividido);
+        System.out.println("Valor total mensal = " + valorTotalMensal);
     }
 }
