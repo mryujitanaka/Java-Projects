@@ -13,14 +13,15 @@ public class Main {
 
         System.out.println("Digite seu nome: ");
         String nome = scanner.nextLine();
-        System.out.println("Nome: " + nome);
 
         System.out.println("Digite sua idade: ");
         int idade = scanner.nextInt();
-        System.out.println("Idade: " + idade);
 
         System.out.println("Está empregado (True (Sim) / False (Não))? ");
         boolean estaEmpregado = scanner.nextBoolean();
+
+        System.out.println("Nome: " + nome);
+        System.out.println("Idade: " + idade);
         System.out.println("Empregado: " + estaEmpregado);
     }
 }
