@@ -14,6 +14,22 @@ Tip: Think of the Collections Framework as a toolbox.
 Interfaces like List define what tools can do, and classes like ArrayList are the actual tools that do the work.
 */
 
+/*
+Java List Interface
+
+The List interface is part of the Java Collections Framework and represents an ordered collection of elements.
+
+You can access elements by their index, add duplicates, and maintain the insertion order.
+
+Since List is an interface, you cannot create a List object directly.
+
+Instead, you use a class that implements the List interface, such as:
+
+ArrayList - like a resizable array with fast random access
+
+Tip: Use List when you care about order, you may have duplicates, and want to access elements by index.
+*/
+
 import java.util.List; // Import the List interface
 import java.util.ArrayList; // Import the ArrayList class
 
