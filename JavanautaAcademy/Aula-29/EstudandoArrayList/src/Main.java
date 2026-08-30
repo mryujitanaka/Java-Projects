@@ -1,3 +1,19 @@
+/*
+The Collections Framework
+
+Before we explore ArrayList, HashSet, HashMap, and other data structures in more detail, it's important to understand that all of these are part of something bigger - the Java Collections Framework.
+
+The Java Collections Framework provides a set of interfaces (like List, Set, and Map) and a set of classes (ArrayList, HashSet, HashMap, etc.) that implement those interfaces.
+
+All of these are part of the java.util package.
+
+They are used to store, search, sort, and organize data more easily - all using standardized methods and patterns.
+
+Tip: Think of the Collections Framework as a toolbox.
+
+Interfaces like List define what tools can do, and classes like ArrayList are the actual tools that do the work.
+*/
+
 import java.util.List; // Import the List interface
 import java.util.ArrayList; // Import the ArrayList class
 
