@@ -27,7 +27,7 @@ HashMap - fast and unordered
 */
 
 import java.util.HashMap; // Import the HashMap class
-import java.util.Map; // Import the Map class
+import java.util.Map; // Import the Map interface
 
 public class Main {
     public static void main(String[] args) {
