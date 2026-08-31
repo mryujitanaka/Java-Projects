@@ -9,6 +9,7 @@ public class Test3 {
         sistemaNotasAlunos.put("Santiago", 7.5);
         sistemaNotasAlunos.put("Luisa", 8.9);
 
+        // Primeira forma de itarar sobre as chaves/valores do HashMap
         System.out.println("### Sistema de Notas de Alunos ###");
         for (String nomeAluno : sistemaNotasAlunos.keySet()){
             double notaAluno = sistemaNotasAlunos.get(nomeAluno);
