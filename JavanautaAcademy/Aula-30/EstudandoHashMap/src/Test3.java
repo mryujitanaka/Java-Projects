@@ -6,8 +6,8 @@ public class Test3 {
         HashMap<String, Double> sistemaNotasAlunos = new HashMap<>();
 
         sistemaNotasAlunos.put("Yoshi", 10.0d);
-        sistemaNotasAlunos.put("Santiago", 7.5);
-        sistemaNotasAlunos.put("Luisa", 8.9);
+        sistemaNotasAlunos.put("Santiago", 7.5d);
+        sistemaNotasAlunos.put("Luisa", 8.9d);
 
         // Primeira forma de itarar sobre as chaves/valores do HashMap
         System.out.println("### Sistema de Notas de Alunos ###");
