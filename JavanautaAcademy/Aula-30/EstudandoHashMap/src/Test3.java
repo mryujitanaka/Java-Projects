@@ -10,7 +10,7 @@ public class Test3 {
         sistemaNotasAlunos.put("Luisa", 8.9d);
 
         // Primeira forma de iterar sobre as chaves/valores do HashMap
-        System.out.println("### Sistema de Notas de Alunos ###");
+        System.out.println("### Sistema de Notas de Alunos - keySet###");
         for (String nomeAluno : sistemaNotasAlunos.keySet()){
             double notaAluno = sistemaNotasAlunos.get(nomeAluno);
             System.out.println(nomeAluno + ": " + notaAluno);

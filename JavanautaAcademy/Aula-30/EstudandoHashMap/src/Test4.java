@@ -11,6 +11,7 @@ public class Test4 {
         sistemaNotasAlunos.put("Luisa", 8.9d);
 
         // Segunda forma de itarar sobre as chaves/valores do HashMap
+        System.out.println("### Sistema de Notas de Alunos - entrySet###");
         for (Map.Entry<String, Double> notaAluno : sistemaNotasAlunos.entrySet()){
             String nomeAluno = notaAluno.getKey();
             double valorNotaAluno = notaAluno.getValue();
