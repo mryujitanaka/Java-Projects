@@ -1,5 +1,5 @@
 /*
-Modificadores de Acesso:
+Modificadores de Acesso (Java Modifiers):
 * public: acessível de qualquer lugar.
 * private: acessível apenas dentro da classe onde foi declarado.
 * protected: acessível dentro do mesmo pacote ou subclasses.
