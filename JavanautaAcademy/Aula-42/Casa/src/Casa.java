@@ -32,5 +32,11 @@ public class Casa {
         // Chamar/ordernar método/função para retornar o tipo de dado de somarMetragem()
         int resultadoSomaMetragem = casa.somarMetragem();
         System.out.println("Soma da metragem da casa: " + resultadoSomaMetragem + "m³");
+
+        System.out.println();
+
+        // Chamar/ordernar método/função mudarCorCasa() com parâmetro
+        System.out.println("A cor da casa foi alterada para: ");
+        casa.mudarCorCasa("Branco");
     }
 }
