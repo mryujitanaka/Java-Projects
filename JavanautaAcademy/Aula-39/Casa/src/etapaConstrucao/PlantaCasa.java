@@ -12,8 +12,8 @@ public class PlantaCasa {
     public int metragemCasa;
     public int numeroQuartosCasa;
     public int numeroBanheirosCasa;
-    public  String tipoMaterialCasa;
-    public  String corCasa;
+    public String tipoMaterialCasa;
+    public String corCasa;
 
     // Método ou Função (ordens)
     protected void Construir(){
