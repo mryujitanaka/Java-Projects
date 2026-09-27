@@ -4,8 +4,6 @@ O tipo de retorno define o tipo de dado que o método devolverá (int, double, l
 Se o método não retornar nenhum valor, usamos void.
 */
 
-import etapaConstrucao.PlantaCasa;
-
 public class Casa {
     public static void main(String[] args){
 

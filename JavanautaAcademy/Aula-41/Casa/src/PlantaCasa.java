@@ -4,8 +4,6 @@ O tipo de retorno define o tipo de dado que o método devolverá (int, double, l
 Se o método não retornar nenhum valor, usamos void.
 */
 
-package etapaConstrucao;
-
 public class PlantaCasa {
     // Atributos / Variáveis / Características
     public int metragemCasa;
