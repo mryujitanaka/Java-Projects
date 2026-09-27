@@ -1,8 +1,8 @@
 /*
 Parâmetros de Métodos
+Os parâmetros são variáveis que são passadas ao método.
+Essas variáveis/características são definidas dentro dos parênteses após o nome do método.
 */
-
-import etapaConstrucao.PlantaCasa;
 
 public class Casa {
     public static void main(String[] args){
@@ -35,8 +35,13 @@ public class Casa {
 
         System.out.println();
 
-        // Chamar/ordernar método/função mudarCorCasa() com parâmetro
+        // Chamar/ordernar método/função mudarCorCasa() com parâmetro (mudar cor da casa)
         System.out.println("A cor da casa foi alterada para: ");
         casa.mudarCorCasa("Branco");
+
+        System.out.println();
+
+        System.out.println("As características da casa foram alteradas: ");
+        casa.mudarPlantaCasa(250, 6, 8, "Concreto");
     }
 }
