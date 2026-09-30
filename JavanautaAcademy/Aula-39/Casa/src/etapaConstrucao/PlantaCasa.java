@@ -23,7 +23,7 @@ public class PlantaCasa {
         System.out.println("Tipo de Material: " + tipoMaterialCasa);
     }
     // Método ou Função (ordem)
-    public void Pintar(){
+    private void Pintar(){
         System.out.println("Cor: " + corCasa);
     }
 }
