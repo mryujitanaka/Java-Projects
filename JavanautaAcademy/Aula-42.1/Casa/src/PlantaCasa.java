@@ -23,6 +23,7 @@ public class PlantaCasa {
         System.out.println("Número de banheiros: " + numeroBanheirosCasa);
         System.out.println("Tipo de Material: " + tipoMaterialCasa);
     }
+
     // Método ou Função (ordem)
     public void Pintar(){
         System.out.println(corCasa);
@@ -33,12 +34,6 @@ public class PlantaCasa {
         return metragemCasa * (numeroBanheirosCasa + numeroQuartosCasa);
     }
 
-    // Método ou Função (ordens) com parâmetros (mudar cor da casa)
-    public void mudarCorCasa(String novaCor){
-        corCasa = novaCor;
-        Pintar();
-    }
-
     // Método ou Função (ordens) com parâmetros (mudar características da casa)
     public void mudarPlantaCasa(int novaMetragemCasa, int novoNumeroQuartosCasa, int novoNumeroBanheirosCasa, String novoTipoMaterialCasa){
         metragemCasa = novaMetragemCasa;
@@ -46,5 +41,11 @@ public class PlantaCasa {
         numeroBanheirosCasa = novoNumeroBanheirosCasa;
         tipoMaterialCasa = novoTipoMaterialCasa;
         Construir();
+    }
+
+    // Método ou Função (ordens) com parâmetros (mudar cor da casa)
+    public void mudarCorCasa(String novaCorCasa){
+        corCasa = novaCorCasa;
+        Pintar();
     }
 }
