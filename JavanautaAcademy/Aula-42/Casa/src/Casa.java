@@ -31,17 +31,17 @@ public class Casa {
 
         // Chamar/ordernar método/função para retornar o tipo de dado de somarMetragem()
         int resultadoSomaMetragem = casa.somarMetragem();
-        System.out.println("Soma da metragem da casa: " + resultadoSomaMetragem + "m³");
+        System.out.println("Soma da metragem da casa: " + resultadoSomaMetragem + "m²");
+
+        System.out.println();
+
+        System.out.println("As características da casa foram alteradas: ");
+        casa.mudarPlantaCasa(250, 6, 8, "Concreto");
 
         System.out.println();
 
         // Chamar/ordernar método/função mudarCorCasa() com parâmetro (mudar cor da casa)
         System.out.println("A cor da casa foi alterada para: ");
         casa.mudarCorCasa("Branco");
-
-        System.out.println();
-
-        System.out.println("As características da casa foram alteradas: ");
-        casa.mudarPlantaCasa(250, 6, 8, "Concreto");
     }
 }
