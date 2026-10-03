@@ -42,6 +42,12 @@ public class Casa {
 
         System.out.println();
 
+        // Chamar/ordernar método/função para "calcular o custo da construção" do objeto "Casa"
+        int resultadoCustoPorMetro = casa.calcularCustoConstrucao(500);
+        System.out.println("O custo da construção da casa é R$ " + resultadoCustoPorMetro);
+
+        System.out.println();
+
         // Chamar/ordernar método/função para retornar o tipo de dado de somarMetragem()
         int resultadoSomaMetragem = casa.somarMetragem();
         System.out.println("Soma da metragem da casa: " + resultadoSomaMetragem + "m²");
