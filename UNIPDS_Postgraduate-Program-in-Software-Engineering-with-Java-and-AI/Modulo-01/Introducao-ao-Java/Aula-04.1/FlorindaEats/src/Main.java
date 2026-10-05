@@ -102,4 +102,23 @@ void main(){
     } else {
         IO.println("Preço: " + precoItem1);
     }
+
+    IO.println();
+
+    double[] precos = new double[7];
+
+    precos[0] = 2.99d;
+    precos[1] = 3.50d;
+    precos[2] = 12.99d;
+    precos[3] = 4.99d;
+    precos[4] = 2.50d;
+    precos[5] = 4.99d;
+    precos[6] = 25.90d;
+
+    boolean[] emPromocao = {false, true, true, true, true, true, false};
+
+    IO.println("O preço do item " + idItem3 + " é: R$" + precos[2]);
+    IO.println("Tamanho do array: " + precos.length);
+    IO.println("Tamanho do array emPromocao: " + emPromocao.length);
+    IO.println("O item " + idItem2 + " está em promoção? " + emPromocao[1]);
 }
