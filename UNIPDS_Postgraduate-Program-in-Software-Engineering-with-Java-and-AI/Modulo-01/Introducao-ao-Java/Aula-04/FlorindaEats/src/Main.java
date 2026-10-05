@@ -24,6 +24,46 @@ void main(){
     var porcentagemDescontoItem2 = (precoItem2 - precoComDescontoItem2) / precoItem2;
     var valorDescontoItem2 = precoItem2 * porcentagemDescontoItem2;
 
+    var idItem3 = 003;
+    var categoriaItem3 = 2;
+    var nomeItem3 = "Torta de Frango da D. Florinda";
+    var descricaoItem3 = "Torta de frango com recheio cremoso e massa crocante.";
+    var emPromocaoItem3 = true;
+    var precoItem3 = 12.99d;
+    var precoComDescontoItem3 = 10.99d;
+    var porcentagemDescontoItem3 = (precoItem3 - precoComDescontoItem3) / precoItem3;
+    var valorDescontoItem3 = precoItem3 * porcentagemDescontoItem3;
+
+    var idItem4 = 004;
+    var categoriaItem4 = 2;
+    var nomeItem4 = "Pipoca do Quico";
+    var descricaoItem4 = "Balde de pipoca preparado com carinho pelo Quico.";
+    var emPromocaoItem4 = true;
+    var precoItem4 = 4.99d;
+    var precoComDescontoItem4 = 3.99d;
+    var porcentagemDescontoItem4 = (precoItem4 - precoComDescontoItem4) / precoItem4;
+    var valorDescontoItem4 = precoItem4 * porcentagemDescontoItem4;
+
+    var idItem5 = 005;
+    var categoriaItem5 = 4;
+    var nomeItem5 = "Água de Jamaica";
+    var descricaoItem5 = "Água aromatizada com hibisco e toque de açúcar.";
+    var emPromocaoItem5 = true;
+    var precoItem5 = 2.50d;
+    var precoComDescontoItem5 = 2.00d;
+    var porcentagemDescontoItem5 = (precoItem5 - precoComDescontoItem5) / precoItem5;
+    var valorDescontoItem5 = precoItem5 * porcentagemDescontoItem5;
+
+    var idItem6 = 006;
+    var categoriaItem6 = 2;
+    var nomeItem6 = "Tacos de Carnitas";
+    var descricaoItem6 = "Tacos recheados com carne tenra.";
+    var emPromocaoItem6 = false;
+    var precoItem6 = 25.90d;
+    var precoComDescontoItem6 = 20.90d;
+    var porcentagemDescontoItem6 = (precoItem6 - precoComDescontoItem6) / precoItem6;
+    var valorDescontoItem6 = precoItem6 * porcentagemDescontoItem6;
+
     IO.println(nomeItem1);
     IO.println(descricaoItem1);
 
