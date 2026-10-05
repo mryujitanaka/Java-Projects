@@ -35,7 +35,7 @@ void main(){
     var valorDescontoItem3 = precoItem3 * porcentagemDescontoItem3;
 
     var idItem4 = 004;
-    var categoriaItem4 = 2;
+    var categoriaItem4 = 1;
     var nomeItem4 = "Pipoca do Quico";
     var descricaoItem4 = "Balde de pipoca preparado com carinho pelo Quico.";
     var emPromocaoItem4 = true;
@@ -55,14 +55,24 @@ void main(){
     var valorDescontoItem5 = precoItem5 * porcentagemDescontoItem5;
 
     var idItem6 = 006;
-    var categoriaItem6 = 2;
-    var nomeItem6 = "Tacos de Carnitas";
-    var descricaoItem6 = "Tacos recheados com carne tenra.";
-    var emPromocaoItem6 = false;
-    var precoItem6 = 25.90d;
-    var precoComDescontoItem6 = 20.90d;
+    var categoriaItem6 = 3;
+    var nomeItem6 = "Churros do Chaves";
+    var descricaoItem6 = "Churros recheados com doce de leite, clássicos e irresistíveis.";
+    var emPromocaoItem6 = true;
+    var precoItem6 = 4.99d;
+    var precoComDescontoItem6 = 3.99d;
     var porcentagemDescontoItem6 = (precoItem6 - precoComDescontoItem6) / precoItem6;
     var valorDescontoItem6 = precoItem6 * porcentagemDescontoItem6;
+
+    var idItem7 = 007;
+    var categoriaItem7 = 2;
+    var nomeItem7 = "Tacos de Carnitas";
+    var descricaoItem7 = "Tacos recheados com carne tenra.";
+    var emPromocaoItem7 = false;
+    var precoItem7 = 25.90d;
+    var precoComDescontoItem7 = 20.90d;
+    var porcentagemDescontoItem7 = (precoItem7 - precoComDescontoItem7) / precoItem7;
+    var valorDescontoItem7 = precoItem7 * porcentagemDescontoItem7;
 
     IO.println(nomeItem1);
     IO.println(descricaoItem1);
