@@ -24,7 +24,7 @@ The meaning of Encapsulation, is to make sure that "sensitive" data is hidden fr
 */
 
 /*
-Get and Set
+Get and Set (Getters & Setters)
 
 You learned from previous lessons that private variables can only be accessed within the same class (an outside class has no access to it). However, it is possible to access them if we provide public Get and Set methods.
 
@@ -35,29 +35,21 @@ Syntax for both is that they start with either get or set, followed by the name 
 Getter e Setter - Métodos padrões para acessar e modificar os atributos.
 */
 
-// OOP - Encapsulamento
-public class ContaBancaria {
-    // Atributos privados
-    private String titular;
-    private double saldo;
+/*
+Java Constructors
 
-    // Método para obter o titular
-    public String getTitular(){
-        return titular;
-    }
+A constructor in Java is a special method that is used to initialize objects.
 
-    // Método para modificar o titular
-    public void setTitular(String titular) {
-        this.titular = titular;
-    }
+The constructor is called when an object of a class is created.
 
-    // Método para obter o saldo
-    public double getSaldo() {
-        return saldo;
-    }
+It can be used to set initial values for object attributes
+*/
 
-    // Método para modificar o saldo
-    public void setSaldo(double saldo) {
-        this.saldo = saldo;
+package contabancaria;
+
+public class AgenciaBancaria {
+    public static void main(String[] args) {
+
+        ContaBancaria minhaConta = new ContaBancaria("Tanaka", 1500);
     }
 }
