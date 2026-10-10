@@ -48,8 +48,24 @@ It can be used to set initial values for object attributes
 package contabancaria;
 
 public class AgenciaBancaria {
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
-        ContaBancaria minhaConta = new ContaBancaria("Tanaka", 1500);
+        ContaBancaria minhaConta = new ContaBancaria("Yuji Tanaka", 1500);
+        System.out.println("Titular da conta: " + minhaConta.getTitular());
+        System.out.println("Saldo da conta: $"+ minhaConta.getSaldo());
+
+        // Mudar o titular da conta
+        minhaConta.setTitular("Yoshi Tanaka");
+        // Depositar ou transferir mais saldo para a conta
+        minhaConta.setSaldo(minhaConta.getSaldo() + 500);
+        String titularConta = minhaConta.getTitular();
+        Double saldoConta = minhaConta.getSaldo();
+        System.out.println("Titular da conta: " + titularConta);
+        System.out.println("Saldo da conta: $"+ saldoConta);
+
+        // Criar conta da esposa
+        ContaBancaria contaEsposa = new ContaBancaria("Simone Tanaka");
+        System.out.println("Titular da conta: " + contaEsposa.getTitular());
+        System.out.println("Saldo da conta: $"+ contaEsposa.getSaldo());
     }
 }
