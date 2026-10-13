@@ -48,33 +48,33 @@ It can be used to set initial values for object attributes
 package contabancaria;
 
 // OOP - Encapsulamento
-// Criar classe ContaBancaria
+// Classe ContaBancaria
 public class ContaBancaria {
     // Atributos privados
     private String titular;
     private double saldo;
 
-    // Método para obter o titular usando o GET
+    // Método GET - para obter o titular
     public String getTitular(){
         return titular;
     }
 
-    // Método para modificar o titular usando o SET
+    // Método SET - para modificar o titular
     public void setTitular(String titular){ // a string TITULAR é um parâmetro
-        this.titular = titular; // o TITULAR sendo "anotado" pelo this é um atributo
+        this.titular = titular; // o TITULAR sendo "anotado" pelo this é o atributo privado declarado na linha 54
     }
 
-    // Método para obter o saldo usando o GET
+    // Método GET - para obter o saldo
     public double getSaldo(){
         return saldo;
     }
 
-    // Método para modificar o saldo usando o SET
+    // Método SET - para modificar o saldo
     public void setSaldo(double saldo){ // a string SALDO é um parâmetro
-        this.saldo = saldo; // o SALDO sendo "anotado" pelo this é um atributo
+        this.saldo = saldo; // o SALDO sendo "anotado" pelo this é o atributo privado declarado na linha 55
     }
 
-    // Construtor com Atributos
+    // Construtor com Atributos dentro do parâmetro
     public ContaBancaria(String titular, double saldo){
         this.titular = titular;
         this.saldo = saldo;
