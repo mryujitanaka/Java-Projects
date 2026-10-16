@@ -35,7 +35,7 @@ Difference between Java Inheritance and Interface
 
 - In Java, inheritance (class extension) reuses code and establishes an "is-a" relationship, whereas an interface defines a behavioral contract and establishes a "can-do" relationship.
 - Keyword Used: Inheritance uses the extends keyword, while an Interface is adopted using the implements keyword.
-- Herança só pode herdar/estender uma única classe. Interface pode implementar mais de uma classe/interface.
+- Herança só pode herdar/estender uma única classe. Interface pode implementar múltiplas interfaces ao mesmo tempo.
 - Herança não é obrigatório de ser utilizado. Interface é obrigatório implementar todos os métodos/funções.
 
 When to Use Which
