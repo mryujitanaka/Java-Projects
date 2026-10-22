@@ -70,8 +70,6 @@ O compilador decide qual método chamar com base na lista de argumentos fornecid
 A sobrescrita de métodos ocorre quando uma classe filha fornece uma implementação específica de um método que já está definido na sua classe pai.
 
 Neste caso, a decisão sobre qual método usar é feita durante a execução do programa (runtime).
-
-
 */
 
 /*
