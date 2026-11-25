@@ -16,30 +16,42 @@ public class Caneta {
         this.tampada = tampada;
     }
 
+    // MODELO
+    // Getter
     public String getModelo() {
         return modelo;
     }
+    // Setter
     public void setModelo(String modelo) {
         this.modelo = modelo;
     }
 
+    // PONTA
+    // Getter
     public double getPonta() {
         return ponta;
     }
+    // Setter
     public void setPonta(double ponta) {
         this.ponta = ponta;
     }
 
+    // COR
+    // Getter
     public String getCor() {
         return cor;
     }
+    // Setter
     public void setCor(String cor) {
         this.cor = cor;
     }
 
+    // TAMPADA
+    // Getter
     public boolean getTampada() {
         return tampada;
     }
+    // Setter
     public void setTampada(boolean tampada) {
         this.tampada = tampada;
     }
